@@ -2,5 +2,10 @@ site_name: becky2 -> thuderbird
 theme:
    name: material
 
+markdown_extensions:
+  - attr_list
+
 extra_css:
   - css/b2t.css
+
+
