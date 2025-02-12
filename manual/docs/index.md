@@ -16,7 +16,7 @@ IMAP4　運用サーバに切り替えられるまでは以下手順で対応し
 必要なもの：　同上プラグイン、エクスポート先フォルダ（物理的に余裕があるもの）
 
 * 長年使っているPCでBeckyを動かしていて、HDD容量が心もとない場合は、エクスポート先フォルダをUSB接続のストレージ、NASなどに準備しておきましょう。 
-* Becky!プラグイン http://www.vector.co.jp/soft/dl/win95/net/se252604.html をインストールします。
+* Becky!プラグイン [CircleBecky](http://www.vector.co.jp/soft/dl/win95/net/se252604.html "CircleBecky")  をインストールします。
 * ツール→プラグインの設定→"CircleBecky Plug-in" でインストール/確認
 ![](./circle_becky01.png)
 * ファイル → フォルダ → 拡張エクスポート →　エクスポート先のフォルダを選んでOK。
@@ -38,6 +38,6 @@ IMAP4　運用サーバに切り替えられるまでは以下手順で対応し
 
 * Thunderbird は 寄付によって維持されています。
 * 私(strnh)も微力ながら寄付しています。
-* このプロジェクトの存続を望むのであれば、彼らに寄付しましょう。
-https://www.thunderbird.net/ja/donate/
+* プロジェクトの存続を望むのであれば、彼らに寄付しましょう。
+[Thunderbirdプロジェクトへの寄付](https://www.thunderbird.net/ja/donate/ "donation")
 

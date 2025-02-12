@@ -1,1 +1,3 @@
-site_name: becky2 -> thuderbird 
+site_name: becky2 -> thuderbird
+theme:
+   name: material
