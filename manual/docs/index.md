@@ -1,10 +1,11 @@
 # Becky2 から Thunderbird への移行手続き
 
-POP3　で運用されているサーバでは過去のメールメッセージデータが移行されません。
-IMAP4　運用サーバに切り替えられるまでは以下手順で対応します。
+- POP3　で運用されているサーバでは過去のメールメッセージデータが移行されません。
+- IMAP4　運用サーバに切り替えられるまでは以下手順で対応します。
 
-* Becky2:  https://www.rimarts.co.jp/becky-j.htm
-* Thunderbird: https://www.thunderbird.net/ja/
+## 対象の[MUA](https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88 "電子メールクライアント")
+* [Becky2](https://www.rimarts.co.jp/becky-j.htm "Becky2")
+* [Thunderbird](https://www.thunderbird.net/ja/ "Thunderbird")
 
 
 
