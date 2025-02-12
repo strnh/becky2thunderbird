@@ -1,3 +1,6 @@
 site_name: becky2 -> thuderbird
 theme:
    name: material
+
+extra_css:
+  - css/b2t.css
